@@ -1,0 +1,14 @@
+body{
+color: white;
+}
+
+#id_gender,
+#id_job_city {
+    list-style-type: none;
+    display: inline-flex;
+}
+
+#id_gender>li,
+#id_job_city>li {
+    padding-left: 10px;
+}
